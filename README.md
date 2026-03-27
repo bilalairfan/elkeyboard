@@ -1,7 +1,5 @@
 # elkeyboard
 
-![elkeyboard](link tba)
-
 A 3x3 macropad I will primarily use for CADding and school work.
 
 image*
