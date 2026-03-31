@@ -8,15 +8,16 @@ A 3x3 macropad I will primarily use for CADding and school work.
 - 128x32 OLED display
 - LEDs under each key
 
-<img width="857" height="873" alt="image" src="https://github.com/user-attachments/assets/3d673de4-9a0d-4b13-8d1f-de5b0ce01d79" />
--
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3d673de4-9a0d-4b13-8d1f-de5b0ce01d79" />
+
+
 # Diagrams
 
 ### Schematic: 
-<img width="1082" height="801" alt="image" src="https://github.com/user-attachments/assets/ed27e02c-c174-4f25-856a-f488b3b7bb72" />
+<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/ed27e02c-c174-4f25-856a-f488b3b7bb72" />
 
 ### PCB: 
-<img width="867" height="1091" alt="image" src="https://github.com/user-attachments/assets/072c7024-1a4c-4a78-b33b-8f4e20076c2c" />
+<img width="480" height="600" alt="image" src="https://github.com/user-attachments/assets/072c7024-1a4c-4a78-b33b-8f4e20076c2c" />
 
 ## Firmware
 My layout is going to be based on my shortcuts for my cad software (onshape).
