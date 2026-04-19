@@ -9,15 +9,17 @@ A 3x3 macropad I will primarily use for CADding and school work.
 - LEDs under each key
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3d673de4-9a0d-4b13-8d1f-de5b0ce01d79" />
-
+link to cad: https://cad.onshape.com/documents/f6566b1274e7edd1fcbf8569/w/f5617eb1dfdd9ed77d1d4c33/e/8ab57a133af5eb0a263a87d2?renderMode=0&uiState=69e41b9765a285248c64cd51
 
 # Diagrams
 
 ### Schematic: 
-<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/ed27e02c-c174-4f25-856a-f488b3b7bb72" />
+<img width="1376" height="993" alt="image" src="https://github.com/user-attachments/assets/be32ce25-94cd-430a-8d72-55730c917d93" />
+
 
 ### PCB: 
-<img width="480" height="600" alt="image" src="https://github.com/user-attachments/assets/072c7024-1a4c-4a78-b33b-8f4e20076c2c" />
+<img width="750" height="934" alt="image" src="https://github.com/user-attachments/assets/b2031d19-b3b6-4a8f-ac33-8f110c349e9e" />
+
 
 ## Firmware
 My layout is going to be based on my shortcuts for my cad software (onshape).
