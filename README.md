@@ -9,6 +9,7 @@ A 3x3 macropad I will primarily use for CADding and school work.
 - LEDs under each key
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3d673de4-9a0d-4b13-8d1f-de5b0ce01d79" />
+
 link to cad: https://cad.onshape.com/documents/f6566b1274e7edd1fcbf8569/w/f5617eb1dfdd9ed77d1d4c33/e/8ab57a133af5eb0a263a87d2?renderMode=0&uiState=69e41b9765a285248c64cd51
 
 # Diagrams
